@@ -27,6 +27,6 @@ Este proyecto fue **generado con Perplexity AI** a partir del siguiente prompt (
 
 --- 
 
-## FrontEnd
+## FrontEnd - Instrucciones
 - En app.js modificar la línea 1 con IP del API
 - Abrir index.html en el navegador
